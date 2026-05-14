@@ -14,7 +14,7 @@
 
 <h1 align="center">🚀 About Me</h1>
 
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="250" src="https://github.com/AftabYaragatti/Interactive-Portfolio-Website/blob/main/assets/images/hero1.png">
 
 🎓 Computer Science Engineering Student  
 💼 Data Analyst Intern at **QSpiders Basavanagudi**  
@@ -45,18 +45,42 @@
 
 <div align="center">
 
-### 👨‍💻 Programming & Frontend
+# 👨‍💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,git,github,vscode" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### 🗄️ Database & Analytics
+<br>
 
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+# 🌐 Frontend Development
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<br>
+
+# 📊 Data Analytics & Visualization
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<br>
+
+# 🗄️ Database Management
+
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<br>
+
+# ⚙️ Tools & Platforms
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
@@ -86,12 +110,100 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-Problems_Solved-blue?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-Practiced-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-Practiced-important?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-Practiced-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-Practiced-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-Queries_Practiced-red?style=for-the-badge&logo=oracle"/>
+<table>
+
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Python-Problems_Solved-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br><br>
+
+✔ Practiced Python Programming  
+✔ Solved Coding Problems  
+✔ Worked on Arrays & Strings  
+✔ Implemented Sorting Algorithms  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/NumPy-Practiced-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<br><br>
+
+✔ Array Operations  
+✔ Numerical Computing  
+✔ Matrix Manipulation  
+✔ Data Processing Practice  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Pandas-Practiced-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<br><br>
+
+✔ Data Cleaning  
+✔ Data Analysis  
+✔ DataFrames & Series  
+✔ Real-Time Dataset Practice  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Matplotlib-Practiced-11557C?style=for-the-badge"/>
+
+<br><br>
+
+✔ Line Charts & Bar Graphs  
+✔ Pie Charts & Histograms  
+✔ Dashboard Visualizations  
+✔ Interactive Plot Practice  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Seaborn-Practiced-4C72B0?style=for-the-badge"/>
+
+<br><br>
+
+✔ Statistical Visualization  
+✔ Heatmaps & Pairplots  
+✔ Distribution Analysis  
+✔ Advanced Data Visualization  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Oracle_SQL-Queries_Practiced-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<br><br>
+
+✔ Joins & Subqueries  
+✔ DDL, DML & TCL Commands  
+✔ Query Optimization  
+✔ Database Management Practice  
+
+</td>
+</tr>
+
+</table>
+
 </div>
 
 ---
@@ -122,9 +234,9 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 
 ---
 
-<h1 align="center">🚀 Featured Projects</h1>
+<h1 align="center">🚀 Projects</h1>
 
-# 📊 Mobile Sales Dashboard
+### 📊 Mobile Sales Dashboard
 
 <div align="center">
 
@@ -135,12 +247,12 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="90%" alt="Mobile Sales Dahsboard"/>
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="60%" alt="Mobile Sales Dahsboard"/>
 </div>
 
 ---
 
-# 🧠 Lung Cancer Detection using CT Image Processing & Machine Learning
+### 🧠 Lung Cancer Detection using CT Image Processing & Machine Learning
 
 <div align="center">
 
@@ -151,12 +263,12 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="90%" alt="Lung Cancer Detection"/>
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="60%" alt="Lung Cancer Detection"/>
 </div>
 
 ---
 
-# 🌐 Interactive Portfolio Website
+### 🌐 Interactive Portfolio Website
 
 <div align="center">
 
@@ -168,7 +280,7 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="90%" alt="Interactive portfolio Website"/>
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/blob/main/assets/images/projects/portfolio1.png" width="60%" alt="Interactive portfolio Website"/>
 
 </div>
 
@@ -186,13 +298,13 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 
 <div align="center">
 
-# 🏫 Hirasugar Institute of Technology
+### 🏫 Hirasugar Institute of Technology
 
 <img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/college.jpg" width="500" style="border-radius:15px;" />
 
 <br><br>
 
-### 💻 Bachelor of Engineering (B.E) in Computer Science & Engineering
+#### 💻 Bachelor of Engineering (B.E) in Computer Science & Engineering
 
 <table>
 <tr>
@@ -226,13 +338,13 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 
 <div align="center">
 
-# 🏫 Basav Jyoti Pre-University College
+### 🏫 Basav Jyoti Pre-University College
 
 <img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/PUCollege.webp" width="500" style="border-radius:15px;" />
 
 <br><br>
 
-### 🧪 Pre-University Education (PCMB Science)
+#### 🧪 Pre-University Education (PCMB Science)
 
 <table>
 <tr>
@@ -266,13 +378,13 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 
 <div align="center">
 
-# 🏫 CSS High School
+### 🏫 CSS High School
 
 <img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/school.jpg" width="500" style="border-radius:15px;" />
 
 <br><br>
 
-### 📘 Secondary School Education (SSLC)
+#### 📘 Secondary School Education (SSLC)
 
 <table>
 <tr>
@@ -299,70 +411,37 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 
 ---
 
-# 🌐 Connect With Me
+<h1 align="center">🌐 Connect With Me</h1>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Let's_Connect-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-<br><br>
-
 <a href="https://github.com/AftabYaragatti">
 <img src="https://img.shields.io/badge/💻_GitHub-AftabYaragatti-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
 
 <a href="https://aftabyaragatti.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/🌐_Portfolio_Website-Visit_Now-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<br><br>
-
 <a href="https://www.linkedin.com/in/aftab-yaragatti">
 <img src="https://img.shields.io/badge/💼_LinkedIn-Aftab_Yaragatti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br><br>
 
 <a href="https://www.instagram.com/ak_aftab143">
 <img src="https://img.shields.io/badge/📸_Instagram-ak__aftab143-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br><br>
-
 <a href="mailto:aftabyaragatto80@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email-aftabyaragatto80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
 
 <a href="tel:+916362099891">
 <img src="https://img.shields.io/badge/📱_Contact-6362099891-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<br><br>
-
 <img src="https://img.shields.io/badge/📍_Location-Chikodi,_Belagavi,_Karnataka,_India-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Open to Internship & Full-Time Opportunities in:
-### 📊 Data Analytics • 🐍 Python Development • 📈 Power BI • 💻 Frontend Development
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Thanks for Visiting My Profile ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
 
 </div>
 
