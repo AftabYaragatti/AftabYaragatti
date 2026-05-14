@@ -110,8 +110,9 @@
 ✔ Responsive Frontend Projects  
 
 ---
-<div align="center">
 
+<div align="center">
+# 📜 My Certifications & Learning Journey
 <a href="https://github.com/AftabYaragatti/Certificates">
 <img src="https://img.shields.io/badge/🏆%20VIEW%20ALL%20CERTIFICATES-FFD700?style=for-the-badge&logo=google-scholar&logoColor=black" />
 </a>
