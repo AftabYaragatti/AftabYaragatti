@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://www.justdial.com/Bangalore/QSpiders-Kempegowda-Nagar/080PXX80-XX80-171220113609-W5H6_BZDET" width="220" alt="QSpiders Logo">
+<img src="[H6_BZDET](https://github.com/AftabYaragatti/AftabYaragatti/blob/main/QSpiders_Logo.png)" width="220" alt="QSpiders Logo">
 
 ## 📌 Data Analyst Intern — QSpiders Basavanagudi
 
