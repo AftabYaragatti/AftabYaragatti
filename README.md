@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://qspidersglobal.com/contact-Us-study-abroad.html" width="220" alt="QSpiders Logo">
+<img src="[https://qspidersglobal.com/contact-Us-study-abroad.html](https://www.facebook.com/p/Pyspiders-Basavanagudi-100064181402999/)" width="220" alt="QSpiders Logo">
 
 ## 📌 Data Analyst Intern — QSpiders Basavanagudi
 
