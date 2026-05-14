@@ -110,13 +110,25 @@
 ✔ Responsive Frontend Projects  
 
 ---
-
-<div align="center">
 # 📜 My Certifications & Learning Journey
+<div align="center">
 <a href="https://github.com/AftabYaragatti/Certificates">
 <img src="https://img.shields.io/badge/🏆%20VIEW%20ALL%20CERTIFICATES-FFD700?style=for-the-badge&logo=google-scholar&logoColor=black" />
 </a>
+These certifications are part of my formal academic curriculum and core technical foundation:
 
+📘 Python Programming
+📘 Data Structures & Algorithms (DSA)
+📘 Fronte-End Web Developement
+📘 AI Tools Workshop
+📘 PowerBI Workshop
+📘 Excel Workshop
+📘 Artificial Intelligence
+📘 Machine Learning
+📘 Database Management System (DBMS)
+📘 Java Programming
+📘 FullStack Web Technologies
+These subjects helped me build strong problem-solving ability, logical thinking, and system-level understanding.
 </div>
 
 ---
