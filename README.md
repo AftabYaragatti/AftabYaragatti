@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://www.urbanpro.com/bangalore/qspiders-basavanagudi/4895337" width="220" alt="QSpiders Logo">
+<img src="https://www.justdial.com/Bangalore/QSpiders-Kempegowda-Nagar/080PXX80-XX80-171220113609-W5H6_BZDET" width="220" alt="QSpiders Logo">
 
 ## 📌 Data Analyst Intern — QSpiders Basavanagudi
 
