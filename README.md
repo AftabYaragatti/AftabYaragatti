@@ -102,6 +102,7 @@
 </div>
 
 ### 🔹 Worked On
+
 ✔ Arrays & Strings Problems  
 ✔ Sorting Algorithms  
 ✔ Python Coding Challenges  
@@ -112,9 +113,328 @@
 
 ---
 
+# 🏆 Certifications
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="350">
+
+<img src="experience/certificate/Python.jpg" width="320" />
+
+<br><br>
+
+# 🐍 Python Certification
+
+📌 Successfully completed Python Programming training and practiced:
+- Variables & Data Types
+- Functions
+- Arrays & Strings
+- File Handling
+- Object Oriented Programming
+- Problem Solving Programs
+
+<br>
+
+<a href="experience/certificate/Python.jpg">
+<img src="https://img.shields.io/badge/View_Certificate-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="350">
+
+<img src="experience/certificate/Java.jpg" width="320" />
+
+<br><br>
+
+# ☕ Java Certification
+
+📌 Completed Java Programming course and learned:
+- Core Java Concepts
+- OOP Principles
+- Inheritance & Polymorphism
+- Exception Handling
+- Java Collections
+- Basic Application Development
+
+<br>
+
+<a href="experience/certificate/Java.jpg">
+<img src="https://img.shields.io/badge/View_Certificate-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td align="center" width="350">
+
+<img src="experience/certificate/DBMS.jpg" width="320" />
+
+<br><br>
+
+# 🗄️ DBMS Certification
+
+📌 Successfully completed DBMS training including:
+- ER Diagrams
+- Relational Model
+- Normalization
+- SQL Queries
+- Joins & Subqueries
+- Database Design Concepts
+
+<br>
+
+<a href="experience/certificate/DBMS.jpg">
+<img src="https://img.shields.io/badge/View_Certificate-DC143C?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="350">
+
+<img src="experience/certificate/DSA.jpg" width="320" />
+
+<br><br>
+
+# 🧩 DSA Certification
+
+📌 Learned Data Structures & Algorithms concepts:
+- Arrays & Strings
+- Stack & Queue
+- Linked List
+- Trees & Graphs
+- Searching & Sorting
+- Problem Solving Techniques
+
+<br>
+
+<a href="experience/certificate/DSA.jpg">
+<img src="https://img.shields.io/badge/View_Certificate-32CD32?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td align="center" width="350">
+
+<img src="experience/certificate/ML.jpg" width="320" />
+
+<br><br>
+
+# 🤖 Machine Learning Certification
+
+📌 Completed Machine Learning training and explored:
+- Supervised Learning
+- Regression & Classification
+- Data Preprocessing
+- Model Training
+- Prediction Systems
+- Basic AI Concepts
+
+<br>
+
+<a href="experience/certificate/ML.jpg">
+<img src="https://img.shields.io/badge/View_Certificate-FFD700?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center" width="350">
+
+<img src="experience/certificate/AI.jpg" width="320" />
+
+<br><br>
+
+# 🧠 Artificial Intelligence Certification
+
+📌 Learned Artificial Intelligence fundamentals:
+- AI Concepts
+- Intelligent Systems
+- Neural Networks Basics
+- Automation Concepts
+- AI Applications
+- Smart Decision Systems
+
+<br>
+
+<a href="experience/certificate/AI.jpg">
+<img src="https://img.shields.io/badge/View_Certificate-9932CC?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="experience/certificate/Web.jpg" width="320" />
+
+<br><br>
+
+# 🌐 Web Development Certification
+
+📌 Successfully completed Web Development training:
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Frontend Development
+- Interactive UI Design
+
+<br>
+
+<a href="experience/certificate/Web.jpg">
+<img src="https://img.shields.io/badge/View_Certificate-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
-# 🌟 Interactive Portfolio Website
+# 📊 1. Mobile Sales Dashboard
+
+<div align="center">
+
+<a href="https://github.com/AftabYaragatti">
+<img src="https://img.shields.io/badge/View_Project_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="project/Output/P2-101.jpg" width="90%" alt="Mobile Dashboard"/>
+
+</div>
+
+---
+
+## 📌 Project Overview
+
+The Mobile Sales Dashboard is an interactive analytics project developed using Python libraries and visualization tools.
+
+### ✨ Features
+
+✔ Brand-wise Sales Analysis  
+✔ Region-wise Analysis  
+✔ Payment Method Insights  
+✔ Interactive Dashboard  
+✔ Attractive Data Visualizations  
+
+### 🎯 Applications
+
+- Business Analytics
+- Market Trend Analysis
+- Customer Analysis
+- Sales Monitoring
+
+### ✅ Advantages
+
+✔ Easy visualization  
+✔ Better business insights  
+✔ Interactive dashboard design  
+
+### ❌ Disadvantages
+
+✖ Requires clean dataset  
+✖ Performance depends on data quality  
+
+### 📌 Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Power BI
+
+---
+
+# 🧠 2. Lung Cancer Detection using CT Image Processing & Machine Learning
+
+<div align="center">
+
+<a href="https://github.com/AftabYaragatti">
+<img src="https://img.shields.io/badge/View_Project_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="project/Output/P1-101.png" width="90%" alt="Lung Cancer Detection"/>
+
+</div>
+
+---
+
+## 📌 Project Overview
+
+The Lung Cancer Detection System is a healthcare-based project developed using image processing and machine learning concepts.
+
+### ✨ Features
+
+✔ CT Image Analysis  
+✔ Cancer Prediction  
+✔ Faster Diagnosis Support  
+✔ Healthcare Visualization  
+
+### 🎯 Applications
+
+- Healthcare Systems
+- Disease Prediction
+- Medical Research
+- AI Diagnosis
+
+### ✅ Advantages
+
+✔ Helps early cancer detection  
+✔ Supports healthcare analytics  
+✔ Faster image processing  
+
+### ❌ Disadvantages
+
+✖ Requires quality CT images  
+✖ Accuracy depends on training data  
+
+### 📌 Technologies Used
+
+- Python
+- Machine Learning
+- OpenCV
+- NumPy
+- Pandas
+- Matplotlib
+
+---
+
+# 🌐 3. Interactive Portfolio Website
 
 <div align="center">
 
@@ -130,48 +450,49 @@
 
 <br>
 
-🔹 Fully Responsive Portfolio Website  
-🔹 Smooth Animations & Interactive UI  
-🔹 Built using HTML, CSS & JavaScript  
-🔹 Professional Modern Design  
-
----
-
-# 📸 Project Outputs
-
 <div align="center">
 
-<img src="project/Output/P1-101.png" width="90%" alt="Project Preview"/>
-
-<br><br>
-
-<img src="project/Output/P1-102.png" width="90%" alt="Project Preview"/>
-
-<br><br>
-
-<img src="project/Output/P1-103.png" width="90%" alt="Project Preview"/>
+<img src="project/Output/P1-102.png" width="90%" alt="Portfolio Website"/>
 
 </div>
 
 ---
 
-# 📊 Mobile Sales Dashboard Project
+## 📌 Project Overview
 
-✔ Data Cleaning & Processing  
-✔ Region Wise Analysis  
-✔ Brand Wise Analysis  
-✔ Payment Method Analysis  
-✔ Interactive Data Visualization  
+The Interactive Portfolio Website is a responsive portfolio project developed using frontend technologies.
 
----
+### ✨ Features
 
-# 🏆 Achievements
+✔ Fully Responsive Design  
+✔ Interactive UI  
+✔ Smooth Navigation  
+✔ Skills & Project Showcase  
 
-🏅 Data Analyst Internship at QSpiders  
-🏅 Built Interactive Portfolio Website  
-🏅 Practiced Python & SQL Programming  
-🏅 Solved Multiple Coding Problems  
-🏅 Created Data Visualization Dashboards  
+### 🎯 Applications
+
+- Personal Branding
+- Resume Showcase
+- Frontend Portfolio
+- Recruiter Attraction
+
+### ✅ Advantages
+
+✔ Professional online presence  
+✔ Attractive design  
+✔ Easy skill showcasing  
+
+### ❌ Disadvantages
+
+✖ Needs regular updates  
+✖ Frontend only project  
+
+### 📌 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- JSON
 
 ---
 
