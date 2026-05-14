@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Aftab%20Yaragatti&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Frontend%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=250&section=header&text=Aftab%20Yaragatti&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Python%20Developer%20|%20Frontend%20Developer%20|%20SQL%20Developer%20|%20PowerBI%20Developer&descAlignY=58&descAlign=50" />
 
-# 👋 Hello, I'm Aftab Yaragatti
+# 👋 Hello World, I'm Aftab Yaragatti
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Frontend+Developer;Data+Analyst;Machine+Learning+Enthusiast;Python+Programmer;Power+BI+Developer;Oracle+SQL+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Data+Analyst;Python+Developer;Frontend+Developer;SQL+Developer;PowerBI+Developer;Problem+Solver;Passionate+Programmer" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=AftabYaragatti&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AftabYaragatti&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -14,12 +16,16 @@
 
 # 🚀 About Me
 
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 🎓 Computer Science Engineering Student  
 💼 Data Analyst Intern at **QSpiders Basavanagudi**  
-📊 Passionate about Data Analytics, AI & Machine Learning  
-💻 Skilled in Frontend Development & Dashboard Building  
-📈 Interested in solving real-world problems using data  
-🎯 Goal: Become a Machine Learning Engineer in a top MNC  
+📊 Passionate about Data Analytics & Dashboard Development  
+💻 Frontend Developer with responsive UI experience  
+🗄️ Skilled in Oracle SQL & Database Querying  
+📈 Experienced in Data Visualization & Reporting  
+🐍 Practiced Python Programming & Solved Multiple Coding Problems  
+⚡ Consistent Learner and Problem Solver  
 
 ---
 
@@ -36,25 +42,26 @@
 ### 🔹 Internship Highlights
 
 ✔ Data Cleaning & Data Preprocessing  
-✔ Dashboard Development using Power BI  
+✔ Interactive Dashboard Creation using Power BI  
 ✔ Data Analysis using Python  
-✔ Visualization using Matplotlib & Seaborn  
+✔ Data Visualization using Matplotlib & Seaborn  
 ✔ SQL Query Writing using Oracle SQL  
-✔ Real-time Analytics Workflow Understanding  
+✔ Real-Time Analytics Workflow Experience  
+✔ Worked on Mobile Sales Dashboard Project  
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-## 👨‍💻 Programming Languages & Tools
+## 👨‍💻 Programming & Frontend
 
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,git,github,vscode" />
 
 <br><br>
 
-## 📊 Data Analytics & Databases
+## 🗄️ Database & Analytics
 
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -67,110 +74,104 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 🧠 Skills Summary
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AftabYaragatti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AftabYaragatti&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AftabYaragatti&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AftabYaragatti&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🧠 Skills Overview
-
-| Category | Skills |
-|----------|---------|
-| 💻 Programming | Python, JavaScript |
+| 💡 Category | 🚀 Skills |
+|-------------|-----------|
+| 👨‍💻 Programming | Python, JavaScript |
+| 🌐 Frontend | HTML5, CSS3, React JS |
 | 🗄️ Database | Oracle SQL |
 | 📊 Data Analytics | NumPy, Pandas |
 | 📈 Visualization | Matplotlib, Seaborn, Power BI |
-| 🌐 Frontend | HTML, CSS, React |
 | ⚙️ Tools | Git, GitHub, VS Code |
+| 🧩 Problem Solving | Solved Python Practice Problems & Coding Challenges |
+
+---
+
+# 📚 Practice & Learning Journey
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-Problems_Solved-blue?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Practiced-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-Practiced-important?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-Practiced-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-Practiced-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-Queries_Practiced-red?style=for-the-badge&logo=oracle"/>
+
+</div>
+
+### 🔹 Worked On
+✔ Arrays & Strings Problems  
+✔ Sorting Algorithms  
+✔ Python Coding Challenges  
+✔ SQL Query Practice  
+✔ Data Analysis Tasks  
+✔ Dashboard Development  
+✔ Responsive Frontend Projects  
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌟 Interactive Portfolio Website
+# 🌟 Interactive Portfolio Website
 
-🔹 Fully Responsive Portfolio  
-🔹 Interactive UI & Smooth Animations  
-🔹 Built using HTML, CSS & JavaScript  
+<div align="center">
 
-### 🔗 Live Demo
-<a href="https://aftabyaragatti.github.io/Portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Visit_Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://github.com/AftabYaragatti/Interactive-Portfolio-Website">
+<img src="https://img.shields.io/badge/View_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
+<a href="https://aftabyaragatti.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Live_Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-## 📊 Mobile Sales Dashboard
+</div>
 
-📈 Dashboard created using:
-- Python
-- Pandas
-- Matplotlib
-- Data Visualization
+<br>
 
-✔ Region-wise Analysis  
-✔ Brand-wise Analysis  
-✔ Payment Method Insights  
-
----
-
-## 🧠 Lung Cancer Detection System
-
-Machine Learning healthcare project using CT Scan images.
-
-✔ Deep Learning Concepts  
-✔ Disease Prediction  
-✔ Healthcare Analytics  
+🔹 Fully Responsive Portfolio Website  
+🔹 Smooth Animations & Interactive UI  
+🔹 Built using HTML, CSS & JavaScript  
+🔹 Professional Modern Design  
 
 ---
 
-# 📸 Project Preview
+# 📸 Project Outputs
 
 <div align="center">
 
 <img src="project/Output/P1-101.png" width="90%" alt="Project Preview"/>
 
+<br><br>
+
+<img src="project/Output/P1-102.png" width="90%" alt="Project Preview"/>
+
+<br><br>
+
+<img src="project/Output/P1-103.png" width="90%" alt="Project Preview"/>
+
 </div>
 
 ---
 
-# 🏆 Certifications
+# 📊 Mobile Sales Dashboard Project
 
-<div align="center">
+✔ Data Cleaning & Processing  
+✔ Region Wise Analysis  
+✔ Brand Wise Analysis  
+✔ Payment Method Analysis  
+✔ Interactive Data Visualization  
 
-<img src="https://img.shields.io/badge/Python-Certified-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Analytics-Certified-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-Certified-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web_Development-Certified-red?style=for-the-badge"/>
+---
 
-</div>
+# 🏆 Achievements
+
+🏅 Data Analyst Internship at QSpiders  
+🏅 Built Interactive Portfolio Website  
+🏅 Practiced Python & SQL Programming  
+🏅 Solved Multiple Coding Problems  
+🏅 Created Data Visualization Dashboards  
 
 ---
 
@@ -179,16 +180,30 @@ Machine Learning healthcare project using CT Scan images.
 <div align="center">
 
 <a href="https://github.com/AftabYaragatti">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-AftabYaragatti-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/aftab-yaragatti">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Aftab_Yaragatti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<br><br>
+
 <a href="https://www.instagram.com/ak_aftab143">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-ak__aftab143-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+<br><br>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Phone-+91_XXXXXXXXXX-success?style=for-the-badge&logo=googlemessages&logoColor=white"/>
 
 </div>
 
@@ -198,7 +213,7 @@ Machine Learning healthcare project using CT Scan images.
 
 <div align="center">
 
-### ✨ “Turning data into insights and ideas into impactful solutions.” ✨
+### ✨ "Transforming data into insights and building ideas into reality." ✨
 
 </div>
 
@@ -207,10 +222,11 @@ Machine Learning healthcare project using CT Scan images.
 # ⚡ Fun Fact
 
 ```python
-while(notSuccess):
-    improveSkills()
-    buildProjects()
-    stayConsistent()
+while(True):
+    Learn()
+    Practice()
+    BuildProjects()
+    ImproveSkills()
 ```
 
 ---
@@ -219,6 +235,6 @@ while(notSuccess):
 
 ## ⭐ Thanks for Visiting My Profile ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 
 </div>
