@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=250&section=header&text=Aftab%20Yaragatti&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Python%20Developer%20|%20Frontend%20Developer%20|%20SQL%20Developer%20|%20PowerBI%20Developer&descAlignY=58&descAlign=50" />
 
-# 👋 Hello World, I'm Aftab Yaragatti
+# 👋 Hello Developers, I'm Aftab Yaragatti
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Data+Analyst;Python+Developer;Frontend+Developer;SQL+Developer;PowerBI+Developer;Problem+Solver;Passionate+Programmer" alt="Typing SVG" />
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/0/0f/QSpiders_Logo.png" width="220" alt="QSpiders Logo">
+<img src="[https://upload.wikimedia.org/wikipedia/en/0/0f/QSpiders_Logo.png](https://www.facebook.com/qspiders.basavanagudi.7/)" width="220" alt="QSpiders Logo">
 
 ## 📌 Data Analyst Intern — QSpiders Basavanagudi
 
