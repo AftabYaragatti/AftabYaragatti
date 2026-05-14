@@ -115,7 +115,7 @@
 # 🏆 My Certifications
 
 <a href="https://github.com/AftabYaragatti/Certificates">
-<img src="https://github.com/AftabYaragatti/Certificates"/>
+<img src="https://github.com/AftabYaragatti/Certificates"/>View All Certificates
 </a>
 
 </div>
