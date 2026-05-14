@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Data+Analyst;Python+Developer;Frontend+Developer;SQL+Developer;PowerBI+Developer;Problem+Solver;Passionate+Programmer" alt="Typing SVG" />
 
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=AftabYaragatti&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
 </div>
@@ -31,8 +29,8 @@
 
 <h1 align="center">🏢 Internship Experience</h1>
 
-## 📌 Data Analyst Intern — QSpiders Basavanagudi
-### 🔹 Internship Highlights
+### 📌 Data Analyst Intern — QSpiders Basavanagudi
+#### 🔹 Internship Highlights
 ✔ Data Cleaning & Data Preprocessing  
 ✔ Interactive Dashboard Creation using Power BI  
 ✔ Data Analysis using Python  
@@ -47,11 +45,11 @@
 
 <div align="center">
 
-## 👨‍💻 Programming & Frontend
+### 👨‍💻 Programming & Frontend
 
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,git,github,vscode" />
 
-## 🗄️ Database & Analytics
+### 🗄️ Database & Analytics
 
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -190,7 +188,7 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 
 # 🏫 Hirasugar Institute of Technology
 
-<img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/college.jpg" width="750" style="border-radius:15px;" />
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/college.jpg" width="500" style="border-radius:15px;" />
 
 <br><br>
 
@@ -230,7 +228,7 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 
 # 🏫 Basav Jyoti Pre-University College
 
-<img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/PUCollege.webp" width="750" style="border-radius:15px;" />
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/PUCollege.webp" width="500" style="border-radius:15px;" />
 
 <br><br>
 
@@ -270,7 +268,7 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 
 # 🏫 CSS High School
 
-<img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/school.jpg" width="750" style="border-radius:15px;" />
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/school.jpg" width="500" style="border-radius:15px;" />
 
 <br><br>
 
@@ -300,6 +298,73 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 </div>
 
 ---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Let's_Connect-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<br><br>
+
+<a href="https://github.com/AftabYaragatti">
+<img src="https://img.shields.io/badge/💻_GitHub-AftabYaragatti-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://aftabyaragatti.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/🌐_Portfolio_Website-Visit_Now-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/aftab-yaragatti">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Aftab_Yaragatti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://www.instagram.com/ak_aftab143">
+<img src="https://img.shields.io/badge/📸_Instagram-ak__aftab143-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="mailto:aftabyaragatto80@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-aftabyaragatto80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="tel:+916362099891">
+<img src="https://img.shields.io/badge/📱_Contact-6362099891-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📍_Location-Chikodi,_Belagavi,_Karnataka,_India-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Open to Internship & Full-Time Opportunities in:
+### 📊 Data Analytics • 🐍 Python Development • 📈 Power BI • 💻 Frontend Development
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting My Profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
+
+</div>
 
 ---
 
