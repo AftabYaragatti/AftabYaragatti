@@ -235,7 +235,7 @@ Below are some of my earned certifications:
 
 ## 🌐PowerBI Tool Workshop
 <p align="center">
-    <img src="[PowerBI Workshop.jpg](https://github.com/AftabYaragatti/Certificates/blob/main/PowerBI%20Workshop.jpg)"
+    <img src="https://raw.githubusercontent.com/AftabYaragatti/Certificates/main/PowerBI%20Workshop.jpg"
          width="500"
          style="border-radius:10px;">
 </p>
