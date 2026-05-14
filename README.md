@@ -16,7 +16,7 @@
 
 <h1 align="center">🚀 About Me</h1>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 Computer Science Engineering Student  
 💼 Data Analyst Intern at **QSpiders Basavanagudi**  
@@ -32,7 +32,6 @@
 <h1 align="center">🏢 Internship Experience</h1>
 
 ## 📌 Data Analyst Intern — QSpiders Basavanagudi
-
 ### 🔹 Internship Highlights
 ✔ Data Cleaning & Data Preprocessing  
 ✔ Interactive Dashboard Creation using Power BI  
@@ -83,9 +82,9 @@
 | 🧩 **Problem Solving** | Arrays, Strings, Sorting Algorithms, Coding Challenges |
 | 📑 **Reporting & Analysis** | Dashboard Reporting, Sales Analysis, Data-Driven Decision Making |
 | 🚀 **Professional Skills** | Analytical Thinking, Team Collaboration, Continuous Learning |
-
-# 📌 Core Strengths
-
+</div>
+<div align="center">
+<h2>📌 Core Strengths</h2>
 ✔ Interactive Dashboard Development  
 ✔ Data Cleaning & Preprocessing  
 ✔ Business Data Analysis  
@@ -98,14 +97,6 @@
 </div>
 ---
 
-<div align="center">
-
-## 📈 Analytics • Visualization • Insights • Development
-
-</div>
-
----
-
 <h1 align="center">📚 Practice & Learning Journey</h1>
 
 <div align="center">
@@ -116,9 +107,10 @@
 <img src="https://img.shields.io/badge/Matplotlib-Practiced-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-Practiced-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-Queries_Practiced-red?style=for-the-badge&logo=oracle"/>
+</div>
 
-### 🔹 Worked On
-
+<div align="center">
+<h2>🔹 Worked On</h2>
 ✔ Arrays & Strings Problems  
 ✔ Sorting Algorithms  
 ✔ Python Coding Challenges  
@@ -126,15 +118,10 @@
 ✔ Data Analysis Tasks  
 ✔ Dashboard Development  
 ✔ Responsive Frontend Projects  
-
 </div>
 ---
 <h1 align="center">📜 My Certifications & Learning Journey</h1>
-
-<p align="center">
-  A reflection of my academic excellence, technical growth, and continuous self-improvement.
-</p>
-These certifications are part of my formal academic curriculum and core technical foundation:
+  A reflection of my academic excellence, technical growth, and continuous self-improvement. These certifications are part of my formal academic curriculum and core technical foundation:
 
 - 📘 Python Programming  
 - 📘 Data Structures & Algorithms (DSA)
@@ -147,7 +134,6 @@ These certifications are part of my formal academic curriculum and core technica
 - 📘 Database Management System (DBMS)   
 - 📘 Java Programming  
 - 📘 FullStack Web Technologies  
-
 These subjects helped me build strong problem-solving ability, logical thinking, and system-level understanding.
 <div align="center">
 <a href="https://github.com/AftabYaragatti/Certificates">
@@ -157,17 +143,19 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 
 ---
 
+<h1 align="center">🚀 Featured Projects</h1>
+
 # 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Projects-Professional%20Portfolio-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Projects-Professional_Portfolio-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
 ---
 
-# 📊 1. Mobile Sales Dashboard
+# 📊 Mobile Sales Dashboard
 
 <div align="center">
 
@@ -176,11 +164,7 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/📊_Data_Analytics_Project-00BFFF?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/🚀_View_Project_Details-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_View_Project-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -189,72 +173,19 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 
 <div align="center">
 
-<img src="project/Output/P2-101.jpg" width="90%" alt="Mobile Dashboard"/>
+<img src="project/Output/P2-101.jpg" width="90%" alt="Mobile Sales Dashboard"/>
 
 </div>
 
 ---
 
-## 📌 Project Overview
-
-The **Mobile Sales Dashboard** is an interactive analytics project developed using Python libraries and visualization tools.  
-This project provides meaningful business insights through attractive dashboards and graphical analysis.
-
----
-
-## ✨ Key Features
-
-✔ Brand-wise Sales Analysis  
-✔ Region-wise Sales Comparison  
-✔ Payment Method Insights  
-✔ Interactive Dashboard UI  
-✔ Dynamic Data Visualization  
-✔ Business Reporting & Insights  
+📌 The **Mobile Sales Dashboard** is an interactive data analytics project developed using Python and visualization libraries.  
+It provides meaningful insights into mobile sales performance through attractive dashboards, region-wise analysis, and payment trend visualization.  
+This project demonstrates practical knowledge in **Data Analysis, Data Cleaning, and Business Intelligence Reporting**.
 
 ---
 
-## 🎯 Applications
-
-- Business Analytics
-- Market Trend Analysis
-- Sales Monitoring
-- Customer Analysis
-- Dashboard Reporting
-
----
-
-## ✅ Advantages
-
-✔ Easy-to-understand analytics  
-✔ Interactive business dashboard  
-✔ Attractive visual representation  
-✔ Better business decision support  
-
----
-
-## ❌ Disadvantages
-
-✖ Requires clean datasets  
-✖ Performance depends on data quality  
-
----
-
-## 🛠️ Technologies Used
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</div>
-
----
-
-# 🧠 2. Lung Cancer Detection using CT Image Processing & Machine Learning
+# 🧠 Lung Cancer Detection using CT Image Processing & Machine Learning
 
 <div align="center">
 
@@ -263,11 +194,7 @@ This project provides meaningful business insights through attractive dashboards
 </a>
 
 <a href="https://github.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning">
-<img src="https://img.shields.io/badge/🧠_Machine_Learning_Project-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning">
-<img src="https://img.shields.io/badge/🚀_View_Project_Details-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_View_Project-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -282,66 +209,13 @@ This project provides meaningful business insights through attractive dashboards
 
 ---
 
-## 📌 Project Overview
-
-The **Lung Cancer Detection System** is a healthcare-based project developed using CT Image Processing and Machine Learning concepts.  
-The system helps detect lung cancer patterns from CT scan images for healthcare support and early prediction analysis.
-
----
-
-## ✨ Key Features
-
-✔ CT Scan Image Analysis  
-✔ Cancer Detection Prediction  
-✔ Image Processing Techniques  
-✔ Healthcare Visualization  
-✔ Faster Diagnostic Support  
-✔ Machine Learning Prediction System  
+📌 The **Lung Cancer Detection System** is a healthcare-based project developed using CT image processing and machine learning techniques.  
+The system helps analyze CT scan images for early cancer prediction and supports healthcare diagnosis through intelligent image analysis.  
+This project highlights skills in **Python, Image Processing, Machine Learning, and Healthcare Analytics**.
 
 ---
 
-## 🎯 Applications
-
-- Healthcare Systems
-- Medical Research
-- Disease Prediction
-- AI-Based Diagnosis
-- Hospital Support Systems
-
----
-
-## ✅ Advantages
-
-✔ Helps in early cancer detection  
-✔ Faster image analysis  
-✔ Supports healthcare analytics  
-✔ Useful for medical research  
-
----
-
-## ❌ Disadvantages
-
-✖ Requires quality CT scan images  
-✖ Accuracy depends on training dataset  
-
----
-
-## 🛠️ Technologies Used
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🌐 3. Interactive Portfolio Website
+# 🌐 Interactive Portfolio Website
 
 <div align="center">
 
@@ -350,11 +224,7 @@ The system helps detect lung cancer patterns from CT scan images for healthcare 
 </a>
 
 <a href="https://aftabyaragatti.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/🌐_Live_Portfolio-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AftabYaragatti/Interactive-Portfolio-Website">
-<img src="https://img.shields.io/badge/🚀_View_Project_Details-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Live_Project-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -363,69 +233,17 @@ The system helps detect lung cancer patterns from CT scan images for healthcare 
 
 <div align="center">
 
-<img src="project/Output/P1-102.png" width="90%" alt="Portfolio Website"/>
+<img src="project/Output/P1-102.png" width="90%" alt="Interactive Portfolio Website"/>
 
 </div>
 
 ---
 
-## 📌 Project Overview
-
-The **Interactive Portfolio Website** is a fully responsive and modern frontend portfolio developed using HTML, CSS, and JavaScript.  
-It is designed to showcase projects, certifications, skills, and professional details in an attractive and interactive way.
-
----
-
-## ✨ Key Features
-
-✔ Fully Responsive Design  
-✔ Interactive User Interface  
-✔ Smooth Navigation Effects  
-✔ Skills & Certification Showcase  
-✔ Modern UI/UX Design  
-✔ GitHub Pages Deployment  
+📌 The **Interactive Portfolio Website** is a fully responsive and modern personal portfolio developed using HTML, CSS, and JavaScript.  
+It showcases projects, certifications, technical skills, and professional details with an interactive user interface and responsive design.  
+This project demonstrates expertise in **Frontend Development, UI/UX Design, and Responsive Web Development**.
 
 ---
-
-## 🎯 Applications
-
-- Personal Branding
-- Resume Showcase
-- Frontend Portfolio
-- Recruiter Attraction
-- Project Presentation
-
----
-
-## ✅ Advantages
-
-✔ Professional online presence  
-✔ Attractive responsive design  
-✔ Easy project showcasing  
-✔ Interactive user experience  
-
----
-
-## ❌ Disadvantages
-
-✖ Requires regular updates  
-✖ Frontend-only implementation  
-
----
-
-## 🛠️ Technologies Used
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-
-</div>
-
----
-
 ---
 # 🎓 Education
 
