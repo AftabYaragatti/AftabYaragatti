@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="coding" width="200" src="https://github.com/AftabYaragatti/Interactive-Portfolio-Website/blob/main/assets/images/hero1.png">
+<img align="right" alt="coding" width="180" src="https://github.com/AftabYaragatti/Interactive-Portfolio-Website/blob/main/assets/images/hero1.png">
 
 🎓 Computer Science Engineering Student  
 💼 Data Analyst Intern at **QSpiders Basavanagudi**  
@@ -274,13 +274,8 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 ---
 
 <h1 align="center">🎓 Education</h1>
-
----
-
 <div align="center">
-
 <img src="https://img.shields.io/badge/Academic-Journey-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-
 </div>
 
 ---
