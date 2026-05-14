@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="[https://upload.wikimedia.org/wikipedia/en/0/0f/QSpiders_Logo.png](https://www.facebook.com/qspiders.basavanagudi.7/)" width="220" alt="QSpiders Logo">
+<img src="https://upload.wikimedia.org/wikipedia/en/0/0f/QSpiders_Logo.png](https://www.facebook.com/qspiders.basavanagudi.7" width="220" alt="QSpiders Logo">
 
 ## 📌 Data Analyst Intern — QSpiders Basavanagudi
 
