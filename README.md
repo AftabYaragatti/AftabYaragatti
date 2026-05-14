@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="coding" width="150" src="https://github.com/AftabYaragatti/Interactive-Portfolio-Website/blob/main/assets/images/hero1.png">
+<img align="right" alt="coding" width="200" src="https://github.com/AftabYaragatti/Interactive-Portfolio-Website/blob/main/assets/images/hero1.png">
 
 🎓 Computer Science Engineering Student  
 💼 Data Analyst Intern at **QSpiders Basavanagudi**  
@@ -233,15 +233,13 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 ### 📊 Mobile Sales Dashboard
 
 <div align="center">
-
-<a href="https://github.com/AftabYaragatti/">
-<img src="https://img.shields.io/badge/🚀_View_Project-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="50%" alt="Mobile Sales Dahsboard"/>
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="50%" alt="Mobile Sales Dahsboard"/>
+<a href="https://github.com/AftabYaragatti/">
+<img src="https://img.shields.io/badge/🚀_View_Project-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 </div>
 
 ---
@@ -249,15 +247,13 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 ### 🧠 Lung Cancer Detection using CT Image Processing & Machine Learning
 
 <div align="center">
-
-<a href="https://github.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning">
-<img src="https://img.shields.io/badge/🚀_View_Project-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="50%" alt="Lung Cancer Detection"/>
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="50%" alt="Lung Cancer Detection"/>
+<a href="https://github.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning">
+<img src="https://img.shields.io/badge/🚀_View_Project-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 </div>
 
 ---
@@ -265,17 +261,14 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 ### 🌐 Interactive Portfolio Website
 
 <div align="center">
-
-<a href="https://aftabyaragatti.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/🌐_Live_Project-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
-<div align="center">
   
 <img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/projects/portfolio1.png" width="50%" alt="Portfolio Project"/>
 
+</div>
+<div align="center">
+<a href="https://aftabyaragatti.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/🌐_Live_Project-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 </div>
 
 ---
