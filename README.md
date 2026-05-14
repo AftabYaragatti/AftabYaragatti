@@ -51,8 +51,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,git,github,vscode" />
 
-<br><br>
-
 ## 🗄️ Database & Analytics
 
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -83,7 +81,7 @@
 | 📑 **Reporting & Analysis** | Dashboard Reporting, Sales Analysis, Data-Driven Decision Making |
 | 🚀 **Professional Skills** | Analytical Thinking, Team Collaboration, Continuous Learning |
 </div>
-<div align="center">
+
 <h2>📌 Core Strengths</h2>
 ✔ Interactive Dashboard Development  
 ✔ Data Cleaning & Preprocessing  
@@ -94,7 +92,6 @@
 ✔ Responsive Frontend Design  
 ✔ Problem Solving & Logical Programming  
 
-</div>
 ---
 
 <h1 align="center">📚 Practice & Learning Journey</h1>
@@ -109,18 +106,19 @@
 <img src="https://img.shields.io/badge/SQL-Queries_Practiced-red?style=for-the-badge&logo=oracle"/>
 </div>
 
-<div align="center">
 <h2>🔹 Worked On</h2>
-✔ Arrays & Strings Problems  
+✔ Arrays & Strings Problems 
 ✔ Sorting Algorithms  
 ✔ Python Coding Challenges  
 ✔ SQL Query Practice  
 ✔ Data Analysis Tasks  
 ✔ Dashboard Development  
 ✔ Responsive Frontend Projects  
-</div>
+
 ---
+
 <h1 align="center">📜 My Certifications & Learning Journey</h1>
+
   A reflection of my academic excellence, technical growth, and continuous self-improvement. These certifications are part of my formal academic curriculum and core technical foundation:
 
 - 📘 Python Programming  
@@ -133,8 +131,10 @@
 - 📘 Machine Learning  
 - 📘 Database Management System (DBMS)   
 - 📘 Java Programming  
-- 📘 FullStack Web Technologies  
+- 📘 FullStack Web Technologies
+
 These subjects helped me build strong problem-solving ability, logical thinking, and system-level understanding.
+
 <div align="center">
 <a href="https://github.com/AftabYaragatti/Certificates">
 <img src="https://img.shields.io/badge/🏆%20VIEW%20ALL%20CERTIFICATES-FFD700?style=for-the-badge&logo=google-scholar&logoColor=black" />
@@ -145,39 +145,19 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 
 <h1 align="center">🚀 Featured Projects</h1>
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Projects-Professional_Portfolio-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
-
----
-
 # 📊 Mobile Sales Dashboard
 
 <div align="center">
 
-<a href="https://github.com/AftabYaragatti">
-<img src="https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
+<a href="https://github.com/AftabYaragatti/">
 <img src="https://img.shields.io/badge/🚀_View_Project-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
-
 <div align="center">
-
-<img src="project/Output/P2-101.jpg" width="90%" alt="Mobile Sales Dashboard"/>
-
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="90%" alt="Mobile Sales Dahsboard"/>
 </div>
-
----
 
 📌 The **Mobile Sales Dashboard** is an interactive data analytics project developed using Python and visualization libraries.  
 It provides meaningful insights into mobile sales performance through attractive dashboards, region-wise analysis, and payment trend visualization.  
@@ -190,24 +170,14 @@ This project demonstrates practical knowledge in **Data Analysis, Data Cleaning,
 <div align="center">
 
 <a href="https://github.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning">
-<img src="https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning">
 <img src="https://img.shields.io/badge/🚀_View_Project-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
-
 <div align="center">
-
-<img src="project/Output/P1-101.png" width="90%" alt="Lung Cancer Detection"/>
-
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="90%" alt="Lung Cancer Detection"/>
 </div>
-
----
 
 📌 The **Lung Cancer Detection System** is a healthcare-based project developed using CT image processing and machine learning techniques.  
 The system helps analyze CT scan images for early cancer prediction and supports healthcare diagnosis through intelligent image analysis.  
@@ -219,95 +189,90 @@ This project highlights skills in **Python, Image Processing, Machine Learning, 
 
 <div align="center">
 
-<a href="https://github.com/AftabYaragatti/Interactive-Portfolio-Website">
-<img src="https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://aftabyaragatti.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/🌐_Live_Project-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img src="project/Output/P1-102.png" width="90%" alt="Interactive Portfolio Website"/>
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="90%" alt="Interactive portfolio Website"/>
 
 </div>
-
----
 
 📌 The **Interactive Portfolio Website** is a fully responsive and modern personal portfolio developed using HTML, CSS, and JavaScript.  
 It showcases projects, certifications, technical skills, and professional details with an interactive user interface and responsive design.  
 This project demonstrates expertise in **Frontend Development, UI/UX Design, and Responsive Web Development**.
 
 ---
----
-# 🎓 Education
+
+<h1 align="center">🎓 Education</h1>
 
 <div align="center">
 
-<table>
+<img src="https://img.shields.io/badge/Education-Academic_Journey-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+
+</div>
+
+---
+
+<table align="center">
 
 <tr>
+
 <td align="center" width="350">
+
+## 🏫 Bachelor of Engineering (B.E)
 
 <img src="assets/images/educat/college.jpg" width="320"/>
 
-<br><br>
+## 📌 Hirasugar Institute of Technology
 
-# 🏫 Bachelor of Engineering (B.E)
+### 💻 Computer Science & Engineering
 
-### Computer Science & Engineering
+📍 Nidasoshi, Belagavi, Karnataka  
+📅 2022 – 2026  
 
-📍 Hirasugar Institute of Technology, Nidasoshi  
-📅 2022 – Present  
+🎯 Pursuing Engineering in Computer Science with focus on:
+- Data Analytics
+- Python Programming
+- SQL & Database Management
+- Frontend Development
+- Data Visualization
 
-### 📌 Relevant Coursework
+<br>
 
-✔ Data Analytics  
-✔ Python Programming  
-✔ Database Management System  
-✔ Machine Learning Basics  
-✔ Data Structures & Algorithms  
-✔ Web Development  
-
-### 🚀 Activities & Learning
-
-- Developed analytics and frontend projects  
-- Practiced Python & SQL programming  
-- Worked on dashboard and visualization projects  
-- Participated in coding and technical activities  
+<img src="https://img.shields.io/badge/Status-Pursuing-success?style=for-the-badge"/>
 
 </td>
 
 <td align="center" width="350">
 
+# 🏫 Pre-University Education
+
 <img src="assets/images/educat/PUCollege.webp" width="320"/>
 
 <br><br>
 
-# 🏫 Pre-University Education
+## 📌 Basav Jyoti Pre-University College
 
-### Science (PCMB)
+### 🧪 PCMB Science
 
-📍 Pre-University College  
-📅 Completed in 2022  
+📍 Examba, Chikodi, Karnataka  
+📅 2020 – 2022  
 
-### 📌 Subjects Studied
+📊 Developed strong analytical and logical foundation through:
+- Physics
+- Chemistry
+- Mathematics
+- Biology
 
-✔ Physics  
-✔ Chemistry  
-✔ Mathematics  
-✔ Biology  
+🎯 Percentage: **XX%**
 
-### 🚀 Achievements
+<br>
 
-- Built strong analytical foundation  
-- Developed logical and problem-solving skills  
-- Improved mathematical thinking ability  
+<img src="https://img.shields.io/badge/Completed-Pre_University-blue?style=for-the-badge"/>
 
 </td>
 
@@ -319,61 +284,28 @@ This project demonstrates expertise in **Frontend Development, UI/UX Design, and
 
 <div align="center">
 
+# 🏫 School Education
+
 <img src="assets/images/educat/school.jpg" width="320"/>
 
 <br><br>
 
-# 🏫 School Education
+## 📌 CSS High School
 
-📍 High School Education  
-📅 Completed SSLC  
+📍 Chikodi, Karnataka  
+📅 Passed Out: 2020  
 
-### 📌 Key Learning Areas
+🎯 Built strong academic foundation and developed interest in:
+- Mathematics
+- Science
+- Computer Fundamentals
+- Problem Solving
 
-✔ Mathematics  
-✔ Science  
-✔ Computer Fundamentals  
-✔ Communication Skills  
+📊 Percentage: **XX%**
 
-### 🚀 Development
+<br>
 
-- Improved discipline and teamwork  
-- Built interest in technology and programming  
-- Strengthened academic fundamentals  
-
-</div>
-
----
----
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/AftabYaragatti">
-<img src="https://img.shields.io/badge/GitHub-AftabYaragatti-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/aftab-yaragatti">
-<img src="https://img.shields.io/badge/LinkedIn-Aftab_Yaragatti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://www.instagram.com/ak_aftab143">
-<img src="https://img.shields.io/badge/Instagram-ak__aftab143-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Phone-+91_XXXXXXXXXX-success?style=for-the-badge&logo=googlemessages&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSLC-Completed-orange?style=for-the-badge"/>
 
 </div>
 
