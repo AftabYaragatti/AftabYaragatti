@@ -113,23 +113,11 @@
 
 # 🏆 Certifications
 
-<div align="center">
-
 <h1 align="center">📜 My Certifications & Learning Journey</h1>
 
 <p align="center">
   A reflection of my academic excellence, technical growth, and continuous self-improvement.
 </p>
-
----
-
-# 📌 About This Repository
-
-This repository contains all my academic, course, and workshop certifications earned throughout my learning journey.
-
-I strongly believe that learning should never stop. Along with my academic curriculum, I actively pursued additional certifications to strengthen my technical foundation, improve practical skills, and stay aligned with industry standards.
-
-Each certificate represents not just completion — but commitment, consistency, and continuous growth.
 
 ---
 
@@ -247,7 +235,7 @@ Below are some of my earned certifications:
 
 ## 🌐PowerBI Tool Workshop
 <p align="center">
-    <img src="PowerBI Workshop.jpg"
+    <img src="[PowerBI Workshop.jpg](https://github.com/AftabYaragatti/Certificates/blob/main/PowerBI%20Workshop.jpg)"
          width="500"
          style="border-radius:10px;">
 </p>
@@ -272,21 +260,6 @@ Below are some of my earned certifications:
          width="500"
          style="border-radius:10px;">
 </p>
----
-
-# 📈 Future Learning Goals
-
-I am continuously upgrading my skills in:
-
-- Deep Learning & CNN Architectures  
-- Advanced Machine Learning Models  
-- Cloud Deployment & DevOps  
-- Full Stack Development  
-- Data Engineering & Big Data  
-
-Technology evolves every day — and I am committed to evolving with it.
-
-</div>
 
 ---
 
