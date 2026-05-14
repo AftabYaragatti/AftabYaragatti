@@ -110,7 +110,15 @@
 ✔ Responsive Frontend Projects  
 
 ---
+<div align="center">
 
+# 🏆 My Certifications
+
+<a href="https://github.com/AftabYaragatti/Certificates">
+<img src="https://github.com/AftabYaragatti/Certificates"/>
+</a>
+
+</div>
 # 🏆 Certifications
 
 <h1 align="center">📜 My Certifications & Learning Journey</h1>
