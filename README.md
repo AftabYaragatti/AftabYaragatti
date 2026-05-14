@@ -72,17 +72,55 @@
 
 ---
 
-# 🧠 Skills Summary
+# 📊 Data Analyst Skill Set
 
-| 💡 Category | 🚀 Skills |
-|-------------|-----------|
-| 👨‍💻 Programming | Python, JavaScript |
-| 🌐 Frontend | HTML5, CSS3, React JS |
-| 🗄️ Database | Oracle SQL |
-| 📊 Data Analytics | NumPy, Pandas |
-| 📈 Visualization | Matplotlib, Seaborn, Power BI |
-| ⚙️ Tools | Git, GitHub, VS Code |
-| 🧩 Problem Solving | Solved Python Practice Problems & Coding Challenges |
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Analyst-Professional-0A66C2?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python%20Developer-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI%20Developer-Interactive%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</div>
+
+---
+
+<div align="center">
+
+| 💡 Domain | 🚀 Skills & Expertise |
+|-----------|----------------------|
+| 📊 **Data Analytics** | Data Cleaning, Data Processing, Data Interpretation, Business Insights |
+| 🐍 **Programming** | Python Programming, Problem Solving, Logical Thinking |
+| 🗄️ **Database Management** | Oracle SQL, Joins, Subqueries, Data Retrieval, Query Optimization |
+| 📈 **Data Visualization** | Power BI, Matplotlib, Seaborn, Dashboard Development |
+| 📚 **Python Libraries** | NumPy, Pandas, Matplotlib, Seaborn |
+| 🌐 **Frontend Development** | HTML5, CSS3, JavaScript, React JS |
+| ⚙️ **Tools & Platforms** | Git, GitHub, VS Code, Jupyter Notebook |
+| 🧩 **Problem Solving** | Arrays, Strings, Sorting Algorithms, Coding Challenges |
+| 📑 **Reporting & Analysis** | Dashboard Reporting, Sales Analysis, Data-Driven Decision Making |
+| 🚀 **Professional Skills** | Analytical Thinking, Team Collaboration, Continuous Learning |
+
+</div>
+
+---
+
+# 📌 Core Strengths
+
+✔ Interactive Dashboard Development  
+✔ Data Cleaning & Preprocessing  
+✔ Business Data Analysis  
+✔ Python Programming & Automation  
+✔ SQL Query Writing & Database Handling  
+✔ Data Visualization & Reporting  
+✔ Responsive Frontend Design  
+✔ Problem Solving & Logical Programming  
+
+---
+
+<div align="center">
+
+## 📈 Analytics • Visualization • Insights • Development
+
+</div>
 
 ---
 
