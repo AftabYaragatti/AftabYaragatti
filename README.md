@@ -115,195 +115,176 @@
 
 <div align="center">
 
-<table>
-<tr>
+<h1 align="center">📜 My Certifications & Learning Journey</h1>
 
-<td align="center" width="350">
-
-<img src="https://github.com/AftabYaragatti/Certificates/blob/main/COURSE%20CERTIFICATE/Python.jpg" width="320" />
-
-<br><br>
-
-# 🐍 Python Certification
-
-📌 Successfully completed Python Programming training and practiced:
-- Variables & Data Types
-- Functions
-- Arrays & Strings
-- File Handling
-- Object Oriented Programming
-- Problem Solving Programs
-
-<br>
-
-<a href="https://github.com/AftabYaragatti/Certificates/blob/main/COURSE%20CERTIFICATE/Python.jpg">
-<img src="https://img.shields.io/badge/View_Certificate-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-
-</td>
-
-<td align="center" width="350">
-
-<img src="experience/certificate/Java.jpg" width="320" />
-
-<br><br>
-
-# ☕ Java Certification
-
-📌 Completed Java Programming course and learned:
-- Core Java Concepts
-- OOP Principles
-- Inheritance & Polymorphism
-- Exception Handling
-- Java Collections
-- Basic Application Development
-
-<br>
-
-<a href="experience/certificate/Java.jpg">
-<img src="https://img.shields.io/badge/View_Certificate-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  A reflection of my academic excellence, technical growth, and continuous self-improvement.
+</p>
 
 ---
 
-<table>
-<tr>
+# 📌 About This Repository
 
-<td align="center" width="350">
+This repository contains all my academic, course, and workshop certifications earned throughout my learning journey.
 
-<img src="experience/certificate/DBMS.jpg" width="320" />
+I strongly believe that learning should never stop. Along with my academic curriculum, I actively pursued additional certifications to strengthen my technical foundation, improve practical skills, and stay aligned with industry standards.
 
-<br><br>
-
-# 🗄️ DBMS Certification
-
-📌 Successfully completed DBMS training including:
-- ER Diagrams
-- Relational Model
-- Normalization
-- SQL Queries
-- Joins & Subqueries
-- Database Design Concepts
-
-<br>
-
-<a href="experience/certificate/DBMS.jpg">
-<img src="https://img.shields.io/badge/View_Certificate-DC143C?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-
-</td>
-
-<td align="center" width="350">
-
-<img src="experience/certificate/DSA.jpg" width="320" />
-
-<br><br>
-
-# 🧩 DSA Certification
-
-📌 Learned Data Structures & Algorithms concepts:
-- Arrays & Strings
-- Stack & Queue
-- Linked List
-- Trees & Graphs
-- Searching & Sorting
-- Problem Solving Techniques
-
-<br>
-
-<a href="experience/certificate/DSA.jpg">
-<img src="https://img.shields.io/badge/View_Certificate-32CD32?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+Each certificate represents not just completion — but commitment, consistency, and continuous growth.
 
 ---
 
-<table>
-<tr>
+# 🎓 Academic Certifications
 
-<td align="center" width="350">
+These certifications are part of my formal academic curriculum and core technical foundation:
 
-<img src="experience/certificate/ML.jpg" width="320" />
+- 📘 Python Programming  
+- 📘 Data Structures & Algorithms (DSA)
+- 📘 Fronte-End Web Developement
+- 📘 AI Tools Workshop
+- 📘 PowerBI Workshop
+- 📘 Excel Workshop
+- 📘 Artificial Intelligence
+- 📘 Machine Learning  
+- 📘 Database Management System (DBMS)   
+- 📘 Java Programming  
+- 📘 FullStack Web Technologies  
 
-<br><br>
-
-# 🤖 Machine Learning Certification
-
-📌 Completed Machine Learning training and explored:
-- Supervised Learning
-- Regression & Classification
-- Data Preprocessing
-- Model Training
-- Prediction Systems
-- Basic AI Concepts
-
-<br>
-
-<a href="experience/certificate/ML.jpg">
-<img src="https://img.shields.io/badge/View_Certificate-FFD700?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td align="center" width="350">
-
-<img src="experience/certificate/AI.jpg" width="320" />
-
-<br><br>
-
-# 🧠 Artificial Intelligence Certification
-
-📌 Learned Artificial Intelligence fundamentals:
-- AI Concepts
-- Intelligent Systems
-- Neural Networks Basics
-- Automation Concepts
-- AI Applications
-- Smart Decision Systems
-
-<br>
-
-<a href="experience/certificate/AI.jpg">
-<img src="https://img.shields.io/badge/View_Certificate-9932CC?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+These subjects helped me build strong problem-solving ability, logical thinking, and system-level understanding.
 
 ---
 
-<div align="center">
+# 💻 Professional Course Certifications
 
-<img src="experience/certificate/Web.jpg" width="320" />
+To enhance my knowledge beyond the classroom, I completed industry-focused courses covering practical tools and frameworks:
 
-<br><br>
+- 🐍 Advanced Python Programming  
+- 🤖 Machine Learning using Python  
+- 📊 Data Analysis with Pandas & NumPy  
+- 🌐 Frontend Development (HTML, CSS, JavaScript, React.js)  
+- 🗄 SQL & Relational Database Concepts  
+- ⚙️ Git & GitHub Version Control  
+- 📈 Data Visualization & Analytics  
 
-# 🌐 Web Development Certification
+These certifications helped me gain real-world exposure and hands-on implementation experience.
 
-📌 Successfully completed Web Development training:
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Design
-- Frontend Development
-- Interactive UI Design
+---
 
-<br>
+# 🛠 Workshops & Technical Training
 
-<a href="experience/certificate/Web.jpg">
-<img src="https://img.shields.io/badge/View_Certificate-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+I actively participated in workshops and training programs to gain practical knowledge and industry insights:
+
+- 🚀 Artificial Intelligence & Machine Learning Workshop  
+- 🧩 Competitive Coding & Problem-Solving Bootcamp  
+- 🌍 Full Stack Web Development Workshop  
+- 🔐 Cybersecurity Awareness Training  
+- ☁️ Introduction to Cloud Computing  
+
+Workshops strengthened my ability to apply theoretical concepts to real-time projects.
+
+---
+
+# 🏆 Key Outcomes From These Certifications
+
+✔ Improved problem-solving and analytical skills  
+✔ Strengthened practical coding ability  
+✔ Gained hands-on experience with real-world tools  
+✔ Built confidence for technical interviews  
+✔ Developed project implementation capability  
+✔ Cultivated a continuous learning mindset  
+
+---
+
+Below are some of my earned certifications:
+
+## 🐍 Python Programming
+<p align="center">
+    <img src="Python.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🌐 Frontend Web Development
+<p align="center">
+    <img src="Front-end Web Development.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 📊 Data Structures and Algorithm
+<p align="center">
+    <img src="DSA.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🗄 Database Management System
+<p align="center">
+    <img src="DBMS.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🤖 Machine Learning Industrial Training Certificate
+<p align="center">
+    <img src="ML Industrial Training Certificate.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🌐AI Tool Workshop
+<p align="center">
+    <img src="AI Tools Workshop.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🌐Excel Workshop
+<p align="center">
+    <img src="Excel Workshop.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🌐PowerBI Tool Workshop
+<p align="center">
+    <img src="PowerBI Workshop.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🌐Full Stack Web Development
+<p align="center">
+    <img src="Full Stack Web Development.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🤖 Machine Learning
+<p align="center">
+    <img src="ML Intership Certificate.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+
+## 🌐Java Programming
+<p align="center">
+    <img src="Java.jpg"
+         width="500"
+         style="border-radius:10px;">
+</p>
+---
+
+# 📈 Future Learning Goals
+
+I am continuously upgrading my skills in:
+
+- Deep Learning & CNN Architectures  
+- Advanced Machine Learning Models  
+- Cloud Deployment & DevOps  
+- Full Stack Development  
+- Data Engineering & Big Data  
+
+Technology evolves every day — and I am committed to evolving with it.
 
 </div>
 
