@@ -116,9 +116,9 @@
 
 <tr>
 <td align="center">
-
+<br>
 <img src="https://img.shields.io/badge/Python-Problems_Solved-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
+<br>
 ✔ Practiced Python Programming  
 ✔ Solved Coding Problems  
 ✔ Worked on Arrays & Strings  
@@ -129,9 +129,9 @@
 
 <tr>
 <td align="center">
-
+<br>
 <img src="https://img.shields.io/badge/NumPy-Practiced-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
+<br>
 ✔ Array Operations  
 ✔ Numerical Computing  
 ✔ Matrix Manipulation  
@@ -142,9 +142,9 @@
 
 <tr>
 <td align="center">
-
+<br>
 <img src="https://img.shields.io/badge/Pandas-Practiced-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
+<br>
 ✔ Data Cleaning  
 ✔ Data Analysis  
 ✔ DataFrames & Series  
@@ -155,9 +155,9 @@
 
 <tr>
 <td align="center">
-
+<br>
 <img src="https://img.shields.io/badge/Matplotlib-Practiced-11557C?style=for-the-badge"/>
-
+<br>
 ✔ Line Charts & Bar Graphs  
 ✔ Pie Charts & Histograms  
 ✔ Dashboard Visualizations  
@@ -168,9 +168,9 @@
 
 <tr>
 <td align="center">
-
+<br>
 <img src="https://img.shields.io/badge/Seaborn-Practiced-4C72B0?style=for-the-badge"/>
-
+<br>
 ✔ Statistical Visualization  
 ✔ Heatmaps & Pairplots  
 ✔ Distribution Analysis  
@@ -181,9 +181,9 @@
 
 <tr>
 <td align="center">
-
+<br>
 <img src="https://img.shields.io/badge/Oracle_SQL-Queries_Practiced-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
+<br>
 ✔ Joins & Subqueries  
 ✔ DDL, DML & TCL Commands  
 ✔ Query Optimization  
@@ -298,8 +298,6 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 
 <img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/college.jpg" width="500" style="border-radius:15px;" />
 
-<br><br>
-
 #### 💻 Bachelor of Engineering (B.E) in Computer Science & Engineering
 
 <table>
@@ -338,8 +336,6 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 
 <img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/PUCollege.webp" width="500" style="border-radius:15px;" />
 
-<br><br>
-
 #### 🧪 Pre-University Education (PCMB Science)
 
 <table>
@@ -377,8 +373,6 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 ### 🏫 CSS High School
 
 <img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/school.jpg" width="500" style="border-radius:15px;" />
-
-<br><br>
 
 #### 📘 Secondary School Education (SSLC)
 
