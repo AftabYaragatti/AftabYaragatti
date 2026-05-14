@@ -33,8 +33,6 @@
 
 <div align="center">
 
-<img src="[H6_BZDET](https://github.com/AftabYaragatti/AftabYaragatti/blob/main/QSpiders_Logo.png)" width="220" alt="QSpiders Logo">
-
 ## 📌 Data Analyst Intern — QSpiders Basavanagudi
 
 </div>
@@ -122,7 +120,7 @@
 
 <td align="center" width="350">
 
-<img src="experience/certificate/Python.jpg" width="320" />
+<img src="https://github.com/AftabYaragatti/Certificates/blob/main/COURSE%20CERTIFICATE/Python.jpg" width="320" />
 
 <br><br>
 
@@ -138,7 +136,7 @@
 
 <br>
 
-<a href="experience/certificate/Python.jpg">
+<a href="https://github.com/AftabYaragatti/Certificates/blob/main/COURSE%20CERTIFICATE/Python.jpg">
 <img src="https://img.shields.io/badge/View_Certificate-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
