@@ -82,16 +82,6 @@
 | 🚀 **Professional Skills** | Analytical Thinking, Team Collaboration, Continuous Learning |
 </div>
 
-<h2>📌 Core Strengths</h2>
-✔ Interactive Dashboard Development  
-✔ Data Cleaning & Preprocessing  
-✔ Business Data Analysis  
-✔ Python Programming & Automation  
-✔ SQL Query Writing & Database Handling  
-✔ Data Visualization & Reporting  
-✔ Responsive Frontend Design  
-✔ Problem Solving & Logical Programming  
-
 ---
 
 <h1 align="center">📚 Practice & Learning Journey</h1>
@@ -105,15 +95,6 @@
 <img src="https://img.shields.io/badge/Seaborn-Practiced-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-Queries_Practiced-red?style=for-the-badge&logo=oracle"/>
 </div>
-
-<h2>🔹 Worked On</h2>
-✔ Arrays & Strings Problems 
-✔ Sorting Algorithms  
-✔ Python Coding Challenges  
-✔ SQL Query Practice  
-✔ Data Analysis Tasks  
-✔ Dashboard Development  
-✔ Responsive Frontend Projects  
 
 ---
 
@@ -159,10 +140,6 @@ These subjects helped me build strong problem-solving ability, logical thinking,
 <img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="90%" alt="Mobile Sales Dahsboard"/>
 </div>
 
-📌 The **Mobile Sales Dashboard** is an interactive data analytics project developed using Python and visualization libraries.  
-It provides meaningful insights into mobile sales performance through attractive dashboards, region-wise analysis, and payment trend visualization.  
-This project demonstrates practical knowledge in **Data Analysis, Data Cleaning, and Business Intelligence Reporting**.
-
 ---
 
 # 🧠 Lung Cancer Detection using CT Image Processing & Machine Learning
@@ -178,10 +155,6 @@ This project demonstrates practical knowledge in **Data Analysis, Data Cleaning,
 <div align="center">
 <img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="90%" alt="Lung Cancer Detection"/>
 </div>
-
-📌 The **Lung Cancer Detection System** is a healthcare-based project developed using CT image processing and machine learning techniques.  
-The system helps analyze CT scan images for early cancer prediction and supports healthcare diagnosis through intelligent image analysis.  
-This project highlights skills in **Python, Image Processing, Machine Learning, and Healthcare Analytics**.
 
 ---
 
@@ -201,113 +174,132 @@ This project highlights skills in **Python, Image Processing, Machine Learning, 
 
 </div>
 
-📌 The **Interactive Portfolio Website** is a fully responsive and modern personal portfolio developed using HTML, CSS, and JavaScript.  
-It showcases projects, certifications, technical skills, and professional details with an interactive user interface and responsive design.  
-This project demonstrates expertise in **Frontend Development, UI/UX Design, and Responsive Web Development**.
-
 ---
 
 <h1 align="center">🎓 Education</h1>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Education-Academic_Journey-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Academic-Journey-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
 </div>
 
 ---
 
-<table align="center">
+<div align="center">
+
+# 🏫 Hirasugar Institute of Technology
+
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/college.jpg" width="750" style="border-radius:15px;" />
+
+<br><br>
+
+### 💻 Bachelor of Engineering (B.E) in Computer Science & Engineering
+
+<table>
+<tr>
+<td align="center">🏢 <b>College</b></td>
+<td>Hirasugar Institute of Technology</td>
+</tr>
 
 <tr>
+<td align="center">📚 <b>Stream</b></td>
+<td>Computer Science & Engineering</td>
+</tr>
 
-<td align="center" width="350">
+<tr>
+<td align="center">📍 <b>Location</b></td>
+<td>Nidasoshi, Belagavi, Karnataka</td>
+</tr>
 
-## 🏫 Bachelor of Engineering (B.E)
-
-<img src="assets/images/educat/college.jpg" width="320"/>
-
-## 📌 Hirasugar Institute of Technology
-
-### 💻 Computer Science & Engineering
-
-📍 Nidasoshi, Belagavi, Karnataka  
-📅 2022 – 2026  
-
-🎯 Pursuing Engineering in Computer Science with focus on:
-- Data Analytics
-- Python Programming
-- SQL & Database Management
-- Frontend Development
-- Data Visualization
+<tr>
+<td align="center">📅 <b>Academic Year</b></td>
+<td>2022 – 2026</td>
+</tr>
+</table>
 
 <br>
 
 <img src="https://img.shields.io/badge/Status-Pursuing-success?style=for-the-badge"/>
 
-</td>
-
-<td align="center" width="350">
-
-# 🏫 Pre-University Education
-
-<img src="assets/images/educat/PUCollege.webp" width="320"/>
-
-<br><br>
-
-## 📌 Basav Jyoti Pre-University College
-
-### 🧪 PCMB Science
-
-📍 Examba, Chikodi, Karnataka  
-📅 2020 – 2022  
-
-📊 Developed strong analytical and logical foundation through:
-- Physics
-- Chemistry
-- Mathematics
-- Biology
-
-🎯 Percentage: **XX%**
-
-<br>
-
-<img src="https://img.shields.io/badge/Completed-Pre_University-blue?style=for-the-badge"/>
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
 <div align="center">
 
-# 🏫 School Education
+# 🏫 Basav Jyoti Pre-University College
 
-<img src="assets/images/educat/school.jpg" width="320"/>
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/PUCollege.webp" width="750" style="border-radius:15px;" />
 
 <br><br>
 
-## 📌 CSS High School
+### 🧪 Pre-University Education (PCMB Science)
 
-📍 Chikodi, Karnataka  
-📅 Passed Out: 2020  
+<table>
+<tr>
+<td align="center">🏢 <b>College</b></td>
+<td>Basav Jyoti Pre-University College</td>
+</tr>
 
-🎯 Built strong academic foundation and developed interest in:
-- Mathematics
-- Science
-- Computer Fundamentals
-- Problem Solving
+<tr>
+<td align="center">📚 <b>Stream</b></td>
+<td>PCMB Science</td>
+</tr>
 
-📊 Percentage: **XX%**
+<tr>
+<td align="center">📍 <b>Location</b></td>
+<td>Examba, Chikodi, Karnataka</td>
+</tr>
+
+<tr>
+<td align="center">📅 <b>Academic Year</b></td>
+<td>2020 – 2022</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/PUC-Completed-blue?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏫 CSS High School
+
+<img src="https://raw.githubusercontent.com/AftabYaragatti/Interactive-Portfolio-Website/main/assets/images/educat/school.jpg" width="750" style="border-radius:15px;" />
+
+<br><br>
+
+### 📘 Secondary School Education (SSLC)
+
+<table>
+<tr>
+<td align="center">🏢 <b>School</b></td>
+<td>CSS High School</td>
+</tr>
+
+<tr>
+<td align="center">📍 <b>Location</b></td>
+<td>Chikodi, Karnataka</td>
+</tr>
+
+<tr>
+<td align="center">📅 <b>Academic Year</b></td>
+<td>2017 – 2020</td>
+</tr>
+</table>
 
 <br>
 
 <img src="https://img.shields.io/badge/SSLC-Completed-orange?style=for-the-badge"/>
 
 </div>
+
+---
 
 ---
 
